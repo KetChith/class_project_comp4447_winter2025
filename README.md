@@ -7,9 +7,9 @@
 4. Note: it takes about 5min to run **`ket_poungnachith_project.ipynb`**
 
 ## Project Structure
-├── ket_poungnachith_project.ipynb   # Jupyter notebook for analysis
-
 ├── README.md                        # Project documentation (this file)
+
+├── ket_poungnachith_project.ipynb   # Jupyter notebook for analysis
 
 ├── requirements.txt                 # Dependencies and required libraries
 
