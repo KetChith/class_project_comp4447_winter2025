@@ -6,7 +6,7 @@
 3. Install all required packages as listed in the **`requirements.txt`** file before running the project.
 4. Note: it takes about 5min to run **`ket_poungnachith_project.ipynb`**
 
-## System Requirements¶
+## System Requirements
 This project requires Google Chrome to run Selenium WebDriver.
 
 ## Install Google Chrome in WSL:
