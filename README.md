@@ -7,7 +7,9 @@
 
 ## Project Structure
 ├── ket_poungnachith_project.ipynb   # Jupyter notebook for analysis
+
 ├── README.md                        # Project documentation (this file)
+
 ├── requirements.txt                 # Dependencies and required libraries
 
 ## Overview
