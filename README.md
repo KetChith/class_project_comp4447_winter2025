@@ -1,3 +1,5 @@
 # class_project_comp4447_winter2025
-
-Just run ket_poungnachith_project.ipynb and make sure that there are no CSV files unrelated to this project should be saved in the directory, otherwise the code will override the files and produce inaccurate results. To have packages as listed on the "requirements" file.
+## Instructions  
+1. Run **`project.ipynb`** to execute the analysis.  
+2. Ensure that **no unrelated CSV files** are saved in the directory, as the code will **override existing files**, potentially leading to inaccurate results.  
+3. Install all required packages as listed in the **`requirements.txt`** file before running the project.  
